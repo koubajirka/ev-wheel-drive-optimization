@@ -30,3 +30,4 @@ One of the outputs is also a plot of the vehicles trajectory.
 The optimization code (model_6DOF_opt) takes the intended radius as input, and outputs optimal steering angle, torques on each of 
 the rear wheels and maximal divergence from the prescribed radius.
 
+## Example Results
