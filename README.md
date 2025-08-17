@@ -15,8 +15,16 @@ movement criteria.
 Key features:
 - 6DOF dynamic model of an on-road vehicle
 - Uses Dugoff tyre model
+- Sprung and damped suspension
 - Torque distribution optimization using minimisation of divergence from the prescribed route
 - Parametric study of the vehicle's suspension setup
+
+See explanatory schemes:
+
+![Tait1](images/tait-1.png)
+![Odpruzeni](images/3d_odpruzeni-1.png)
+![Top](images/3d_top-1.png)
+![Pneu](images/pneuzaklad-1.png)
 
 ## How to Run
 
