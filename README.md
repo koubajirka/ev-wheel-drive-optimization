@@ -39,3 +39,32 @@ The optimization code (model_6DOF_opt) takes the intended radius as input, and o
 the rear wheels and maximal divergence from the prescribed radius.
 
 ## Example Results
+
+Here is an example of the output when the 3D model accelerates in a straight line.
+
+![Rozjezd](images/rozjezd3d.png)
+
+Here is an example of a comparison of dynamic results for 4 different settings:
+
+![OutputSpeed](images/output_rychlost-1.png)
+**(Speed ↑)**
+
+![OutputTrajectory](images/output_trajektorie-1.png)
+**(Trajectory of the ride ↑)**
+
+![OutputYaw](images/output_yaw-1.png)
+![OutputYawDetail](images/output_yawdetail-1.png)
+**(Yaw ↑)**
+
+![OutputRoll](images/output_roll-1.png)
+**(Roll ↑)**
+
+![OutputPitch](images/output_pitch-1.png)
+![OutputPitch](images/output_pitchdetail-1.png)
+**(Pitch ↑)**
+
+![OutputRates](images/output_rates-1.png)
+![OutputRatesDetail](images/output_ratesdetail-1.png)
+**(Rates ↑)**
+
+
