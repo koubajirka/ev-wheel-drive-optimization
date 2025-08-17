@@ -18,6 +18,8 @@ Key features:
 - Sprung and damped suspension
 - Torque distribution optimization using minimisation of divergence from the prescribed route
 - Parametric study of the vehicle's suspension setup
+- Separate torque control function (rizeni_momentu)
+- Separate steering control function (natoceni_kol)
 
 See explanatory schemes:
 
