@@ -16,4 +16,12 @@ Key features:
 - Torque distribution optimization using minimisation of divergence from the prescribed route
 - Parametric study of the vehicle's suspension setup
 
+## How to Run
+
+- The code can be found in /src
+- Can be run via the Matlab interface
+- The parameters can be set up in code directly
+
+## Output
+The code outputs
 
